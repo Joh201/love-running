@@ -188,10 +188,21 @@ hr{
     border-radius: 50%;
 }
 
-.move-right{
+/*.move-right{
     width: 300px;
     height: 300px;
     bottom: 300px;
     left:300px;
     position:relative
+}'/
+
+/*meet up times*/
+
+#times{
+    background-image: url(../images/dublin-city.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
